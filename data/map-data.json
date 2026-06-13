@@ -1,0 +1,82 @@
+[
+  {
+    "id": "maharashtra",
+    "name": "Maharashtra",
+    "programsRunning": 12,
+    "beneficiaries": 45000,
+    "volunteers": 1200,
+    "successStories": 340,
+    "activePrograms": ["Entrepreneurship Bootcamp", "Clean & Green India", "Women Empowerment"],
+    "highlight": true
+  },
+  {
+    "id": "rajasthan",
+    "name": "Rajasthan",
+    "programsRunning": 8,
+    "beneficiaries": 32000,
+    "volunteers": 850,
+    "successStories": 215,
+    "activePrograms": ["Preventive Healthcare Camps", "Financial Independence Drive"],
+    "highlight": true
+  },
+  {
+    "id": "karnataka",
+    "name": "Karnataka",
+    "programsRunning": 15,
+    "beneficiaries": 55000,
+    "volunteers": 2100,
+    "successStories": 520,
+    "activePrograms": ["Ignite Youth Program", "Entrepreneurship Bootcamp", "Clean & Green India"],
+    "highlight": true
+  },
+  {
+    "id": "uttar-pradesh",
+    "name": "Uttar Pradesh",
+    "programsRunning": 18,
+    "beneficiaries": 85000,
+    "volunteers": 3400,
+    "successStories": 680,
+    "activePrograms": ["Preventive Healthcare Camps", "Women Empowerment", "Ignite Youth Program"],
+    "highlight": true
+  },
+  {
+    "id": "tamil-nadu",
+    "name": "Tamil Nadu",
+    "programsRunning": 10,
+    "beneficiaries": 28000,
+    "volunteers": 950,
+    "successStories": 190,
+    "activePrograms": ["Ignite Youth Program", "Financial Independence Drive"],
+    "highlight": false
+  },
+  {
+    "id": "nct-of-delhi",
+    "name": "Delhi",
+    "programsRunning": 22,
+    "beneficiaries": 120000,
+    "volunteers": 4500,
+    "successStories": 890,
+    "activePrograms": ["All Core Programs Active"],
+    "highlight": true
+  },
+  {
+    "id": "gujarat",
+    "name": "Gujarat",
+    "programsRunning": 6,
+    "beneficiaries": 18000,
+    "volunteers": 600,
+    "successStories": 110,
+    "activePrograms": ["Entrepreneurship Bootcamp", "Women Empowerment"],
+    "highlight": false
+  },
+  {
+    "id": "west-bengal",
+    "name": "West Bengal",
+    "programsRunning": 7,
+    "beneficiaries": 21000,
+    "volunteers": 750,
+    "successStories": 145,
+    "activePrograms": ["Clean & Green India", "Preventive Healthcare Camps"],
+    "highlight": false
+  }
+]

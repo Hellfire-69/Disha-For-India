@@ -1,0 +1,72 @@
+[
+  {
+    "id": "women-entrepreneurship-rise",
+    "title": "How Disha Is Empowering Women Entrepreneurs Across India",
+    "excerpt": "From rural Maharashtra to urban Delhi, Disha's programs are changing the narrative for women in business.",
+    "content": "## Introduction\n\nOver the past three years, Disha has focused heavily on empowering women entrepreneurs...",
+    "author": "Priya Sharma",
+    "authorImage": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=400&q=80",
+    "date": "2024-03-10",
+    "image": "https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?w=1200&q=80",
+    "category": "entrepreneurship",
+    "tags": ["women", "entrepreneurship", "empowerment"],
+    "featured": true,
+    "readTime": 5
+  },
+  {
+    "id": "impact-of-financial-literacy",
+    "title": "The Silent Impact of Financial Literacy",
+    "excerpt": "Why teaching basic finance is the most powerful tool for poverty alleviation.",
+    "content": "## The Core Problem\n\nMany young adults enter the workforce without understanding basic personal finance...",
+    "author": "Rajesh Kumar",
+    "authorImage": "https://images.unsplash.com/photo-1556157382-97eda2d62296?w=400&q=80",
+    "date": "2024-02-15",
+    "image": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=1200&q=80",
+    "category": "education",
+    "tags": ["finance", "education", "impact"],
+    "featured": false,
+    "readTime": 4
+  },
+  {
+    "id": "health-camps-transforming-lives",
+    "title": "How Free Health Camps Are Saving Lives in Rural India",
+    "excerpt": "Preventive healthcare is a luxury for many. We are changing that one village at a time.",
+    "content": "## The Healthcare Gap\n\nIn many remote areas, the nearest hospital is hours away. By bringing mobile clinics to these communities, we've managed to provide early diagnoses for chronic conditions...",
+    "author": "Dr. Ananya Singh",
+    "authorImage": "https://images.unsplash.com/photo-1559839734-2b71ea197ec2?w=400&q=80",
+    "date": "2024-04-05",
+    "image": "https://images.unsplash.com/photo-1579684385127-1ef15d508118?w=1200&q=80",
+    "category": "health",
+    "tags": ["healthcare", "community", "wellness"],
+    "featured": false,
+    "readTime": 6
+  },
+  {
+    "id": "solar-power-in-schools",
+    "title": "Bringing Solar Power to 50 Rural Schools",
+    "excerpt": "A green initiative that is lighting up classrooms and protecting our environment.",
+    "content": "## Sustainable Education\n\nElectricity shortages often cut school days short. Our latest clean energy initiative installed solar panels in 50 schools, ensuring uninterrupted learning while reducing the carbon footprint...",
+    "author": "Vikram Patel",
+    "authorImage": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&q=80",
+    "date": "2024-05-12",
+    "image": "https://images.unsplash.com/photo-1542601906990-b4d3fb778b09?w=1200&q=80",
+    "category": "environment",
+    "tags": ["environment", "sustainability", "solar"],
+    "featured": false,
+    "readTime": 4
+  },
+  {
+    "id": "the-ripple-effect-of-volunteering",
+    "title": "The Ripple Effect: Why Your Time Matters More Than Money",
+    "excerpt": "Discover how a few hours of volunteering can create generational impact.",
+    "content": "## Beyond Donations\n\nWhile financial support is crucial, the time our volunteers spend mentoring youth and assisting in health camps creates a profound, personal impact that money simply cannot buy...",
+    "author": "Indu Aggarwal",
+    "authorImage": "https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?w=400&q=80",
+    "date": "2024-06-01",
+    "image": "https://images.unsplash.com/photo-1528605248644-14dd04022da1?w=1200&q=80",
+    "category": "impact",
+    "tags": ["volunteering", "impact", "community"],
+    "featured": false,
+    "readTime": 3
+  }
+]

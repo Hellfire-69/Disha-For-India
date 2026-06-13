@@ -1,0 +1,54 @@
+[
+  {
+    "id": "anita-sharma-story",
+    "name": "Anita Sharma",
+    "age": 27,
+    "location": "Jaipur, Rajasthan",
+    "program": "entrepreneurship-bootcamp",
+    "image": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=200&q=80",
+    "quote": "Disha didn't just teach me business — it gave me the confidence to believe I belong in the room.",
+    "story": "Anita came to the bootcamp as a homemaker with a small tailoring business. After 6 weeks, she launched a sustainable fashion label now selling across 3 states.",
+    "outcome": "Revenue grew 4x. Now employs 5 women from her community.",
+    "videoUrl": "",
+    "featured": true
+  },
+  {
+    "id": "rahul-verma-story",
+    "name": "Rahul Verma",
+    "age": 19,
+    "location": "New Delhi, Delhi",
+    "program": "ignite-youth-program",
+    "image": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?w=200&q=80",
+    "quote": "The mentorship I received helped me clear my college interviews and secure a scholarship.",
+    "story": "Rahul was a bright student lacking guidance. Through the Ignite program, he received one-on-one mentorship that helped him navigate college applications.",
+    "outcome": "Secured a full scholarship at Delhi University.",
+    "videoUrl": "",
+    "featured": true
+  },
+  {
+    "id": "meera-iyer-story",
+    "name": "Meera Iyer",
+    "age": 34,
+    "location": "Chennai, Tamil Nadu",
+    "program": "women-empowerment-program",
+    "image": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=200&q=80",
+    "quote": "After a 5-year break, I thought my career was over. Disha gave me the upskilling I needed.",
+    "story": "Meera had taken a career break to raise her children. The empowerment program helped her refresh her tech skills and rebuilt her confidence for interviews.",
+    "outcome": "Hired as a Senior Analyst at a top tech firm.",
+    "videoUrl": "",
+    "featured": true
+  },
+  {
+    "id": "siddharth-patel-story",
+    "name": "Siddharth Patel",
+    "age": 24,
+    "location": "Ahmedabad, Gujarat",
+    "program": "entrepreneurship-bootcamp",
+    "image": "https://images.unsplash.com/photo-1556157382-97eda2d62296?w=200&q=80",
+    "quote": "They showed me that a great idea is nothing without financial discipline and a solid roadmap.",
+    "story": "Siddharth had a brilliant idea for agritech but no business acumen. Disha's mentors helped him build a scalable business model and secure his first round of seed funding.",
+    "outcome": "Raised $50k in seed funding for his startup.",
+    "videoUrl": "",
+    "featured": true
+  }
+]

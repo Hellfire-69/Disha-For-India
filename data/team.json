@@ -1,0 +1,68 @@
+[
+  {
+    "id": "indu-aggarwal",
+    "name": "Indu Aggarwal",
+    "role": "Founder & Emotional Wellness Coach",
+    "bio": "Indu left her lucrative corporate career to follow her passion for making a difference. She leads Disha for Success and Disha for India to build a healthy, happy, and wealthy society.",
+    "image": "https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?w=400&q=80",
+    "department": "leadership",
+    "linkedin": "https://linkedin.com/in/induaggarwal",
+    "email": "inaggarwal76@gmail.com",
+    "featured": true
+  },
+  {
+    "id": "priya-sharma",
+    "name": "Priya Sharma",
+    "role": "Head of Programs",
+    "bio": "Priya leads program design and implementation across all target states. She specializes in creating scalable educational modules.",
+    "image": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=400&q=80",
+    "department": "programs",
+    "linkedin": "https://linkedin.com/in/priyasharma",
+    "email": "priya@dishaforindia.org",
+    "featured": true
+  },
+  {
+    "id": "amit-patel",
+    "name": "Amit Patel",
+    "role": "Chief Operations Officer",
+    "bio": "Amit oversees the logistical and financial framework of Disha, ensuring that resources hit the ground exactly where they are needed.",
+    "image": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?w=400&q=80",
+    "department": "operations",
+    "linkedin": "https://linkedin.com/in/amitpatel",
+    "email": "amit@dishaforindia.org",
+    "featured": true
+  },
+  {
+    "id": "neha-gupta",
+    "name": "Neha Gupta",
+    "role": "Community Outreach Director",
+    "bio": "Neha manages our network of over 5,000 volunteers, bridging the gap between urban mentors and rural beneficiaries.",
+    "image": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=400&q=80",
+    "department": "outreach",
+    "linkedin": "https://linkedin.com/in/nehagupta",
+    "email": "neha@dishaforindia.org",
+    "featured": true
+  },
+  {
+    "id": "vikram-singh",
+    "name": "Vikram Singh",
+    "role": "Director of Partnerships",
+    "bio": "Vikram brings corporate sponsors and foundational grants to Disha, ensuring sustainable funding for all long-term initiatives.",
+    "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&q=80",
+    "department": "leadership",
+    "linkedin": "https://linkedin.com/in/vikramsingh",
+    "email": "vikram@dishaforindia.org",
+    "featured": true
+  },
+  {
+    "id": "ananya-desai",
+    "name": "Ananya Desai",
+    "role": "Field Operations Manager",
+    "bio": "Ananya spends 80% of her time in rural districts, ensuring that our healthcare camps and learning centers are running smoothly.",
+    "image": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=400&q=80",
+    "department": "operations",
+    "linkedin": "https://linkedin.com/in/ananyadesai",
+    "email": "ananya@dishaforindia.org",
+    "featured": true
+  }
+]

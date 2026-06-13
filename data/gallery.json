@@ -1,0 +1,98 @@
+[
+  {
+    "id": "gallery-1",
+    "url": "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?w=800&q=80",
+    "alt": "Children in a rural school program",
+    "category": "programs",
+    "width": 800,
+    "height": 533
+  },
+  {
+    "id": "gallery-2",
+    "url": "https://images.unsplash.com/photo-1554224155-8d04cb21cd6c?w=800&q=80",
+    "alt": "Community gathering in a village",
+    "category": "community",
+    "width": 800,
+    "height": 533
+  },
+  {
+    "id": "gallery-3",
+    "url": "https://images.unsplash.com/photo-1542810634-71277d95dcbb?w=800&q=80",
+    "alt": "Volunteer teaching children",
+    "category": "volunteers",
+    "width": 800,
+    "height": 533
+  },
+  {
+    "id": "gallery-4",
+    "url": "https://images.unsplash.com/photo-1528605248644-14dd04022da1?w=800&q=80",
+    "alt": "Health camp event for adults",
+    "category": "events",
+    "width": 800,
+    "height": 1067
+  },
+  {
+    "id": "gallery-5",
+    "url": "https://images.unsplash.com/photo-1511632765486-a01980e01a18?w=800&q=80",
+    "alt": "Group of volunteers planning",
+    "category": "volunteers",
+    "width": 800,
+    "height": 533
+  },
+  {
+    "id": "gallery-6",
+    "url": "https://images.unsplash.com/photo-1469571486292-0ba58a3f068b?w=800&q=80",
+    "alt": "Women entrepreneurship workshop",
+    "category": "programs",
+    "width": 800,
+    "height": 1200
+  },
+  {
+    "id": "gallery-7",
+    "url": "https://images.unsplash.com/photo-1576091160550-2173dba999ef?w=800&q=80",
+    "alt": "Medical supplies being distributed",
+    "category": "events",
+    "width": 800,
+    "height": 533
+  },
+  {
+    "id": "gallery-8",
+    "url": "https://images.unsplash.com/photo-1544717305-2782549b5136?w=800&q=80",
+    "alt": "Young students smiling",
+    "category": "community",
+    "width": 800,
+    "height": 533
+  },
+  {
+    "id": "gallery-9",
+    "url": "https://images.unsplash.com/photo-1559027615-cd4628902d4a?w=800&q=80",
+    "alt": "Tree planting environment drive",
+    "category": "events",
+    "width": 800,
+    "height": 1200
+  },
+  {
+    "id": "gallery-10",
+    "url": "https://images.unsplash.com/photo-1593113646773-028c64a8f1b8?w=800&q=80",
+    "alt": "Women learning financial literacy",
+    "category": "programs",
+    "width": 800,
+    "height": 533
+  },
+  {
+    "id": "gallery-11",
+    "url": "https://images.unsplash.com/photo-1517486808906-6ca8b3f04846?w=800&q=80",
+    "alt": "Community celebrating an event",
+    "category": "community",
+    "width": 800,
+    "height": 533
+  },
+  {
+    "id": "gallery-12",
+    "url": "https://images.unsplash.com/photo-1529390079861-591de354faf5?w=800&q=80",
+    "alt": "Volunteers distributing food",
+    "category": "volunteers",
+    "width": 800,
+    "height": 1067
+  }
+]

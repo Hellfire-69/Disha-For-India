@@ -1,0 +1,72 @@
+[
+  {
+    "id": "financial-literacy-workshop-delhi-2026",
+    "title": "Financial Literacy Workshop",
+    "description": "A one-day workshop on personal finance, savings, and investment basics for young adults.",
+    "date": "2026-08-20",
+    "time": "10:00 AM",
+    "location": "New Delhi",
+    "state": "Delhi",
+    "image": "https://images.unsplash.com/photo-1554224155-8d04cb21cd6c?w=1200&q=80",
+    "category": "workshop",
+    "registrationUrl": "",
+    "capacity": 100,
+    "registered": 67
+  },
+  {
+    "id": "health-camp-mumbai-2026",
+    "title": "Community Health Camp",
+    "description": "Free general health checkups and consultations for underprivileged communities.",
+    "date": "2026-09-15",
+    "time": "09:00 AM",
+    "location": "Mumbai",
+    "state": "Maharashtra",
+    "image": "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?w=1200&q=80",
+    "category": "camp",
+    "registrationUrl": "",
+    "capacity": 500,
+    "registered": 420
+  },
+  {
+    "id": "youth-leadership-seminar-2026",
+    "title": "Youth Leadership Seminar",
+    "description": "A seminar bringing together young minds to discuss community leadership and civic engagement.",
+    "date": "2026-10-10",
+    "time": "11:00 AM",
+    "location": "Bangalore",
+    "state": "Karnataka",
+    "image": "https://images.unsplash.com/photo-1528605248644-14dd04022da1?w=1200&q=80",
+    "category": "seminar",
+    "registrationUrl": "",
+    "capacity": 200,
+    "registered": 85
+  },
+  {
+    "id": "rural-education-drive-2025",
+    "title": "Rural Education Drive",
+    "description": "A campaign distributing essential school supplies and setting up mini-libraries in 10 rural schools.",
+    "date": "2025-07-15",
+    "time": "08:00 AM",
+    "location": "Jaipur",
+    "state": "Rajasthan",
+    "image": "https://images.unsplash.com/photo-1497633762265-9d179a990aa6?w=1200&q=80",
+    "category": "drive",
+    "registrationUrl": "",
+    "capacity": 50,
+    "registered": 50
+  },
+  {
+    "id": "women-entrepreneurship-bootcamp-2025",
+    "title": "Women Entrepreneurship Bootcamp",
+    "description": "An intensive 3-day bootcamp helping rural women start and scale their own micro-businesses.",
+    "date": "2025-11-05",
+    "time": "10:00 AM",
+    "location": "Pune",
+    "state": "Maharashtra",
+    "image": "https://images.unsplash.com/photo-1573164713988-8665fc963095?w=1200&q=80",
+    "category": "bootcamp",
+    "registrationUrl": "",
+    "capacity": 100,
+    "registered": 100
+  }
+]

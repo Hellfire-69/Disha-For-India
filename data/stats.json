@@ -1,0 +1,6 @@
+[
+  { "id": "students", "label": "Students Reached", "value": 50000, "suffix": "+", "icon": "GraduationCap" },
+  { "id": "volunteers", "label": "Volunteers", "value": 1200, "suffix": "+", "icon": "Users" },
+  { "id": "states", "label": "States Covered", "value": 18, "suffix": "", "icon": "MapPin" },
+  { "id": "programs", "label": "Programs Running", "value": 12, "suffix": "+", "icon": "BookOpen" }
+]

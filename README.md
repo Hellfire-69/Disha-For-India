@@ -2,6 +2,13 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 
 ## Getting Started
 
+### Environment Variables
+Before running the application, create a `.env.local` file in the root directory and add the following variables:
+```env
+GEMINI_API_KEY=your_key_here
+NEXT_PUBLIC_SITE_URL=https://dishaforindia.vercel.app
+```
+
 First, run the development server:
 
 ```bash
