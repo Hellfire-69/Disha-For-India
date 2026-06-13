@@ -1,7 +1,7 @@
 "use client";
 
 import { useState, useRef, useEffect } from "react";
-import { MessageSquare, Send, Bot, Loader2 } from "lucide-react";
+import { MessageSquare, Send, Bot, Loader2, AlertTriangle } from "lucide-react";
 import { Sheet, SheetContent, SheetTrigger, SheetTitle, SheetHeader } from "@/components/ui/sheet";
 
 type Message = {
@@ -22,6 +22,7 @@ export function AIChatWidget() {
   const [isLoading, setIsLoading] = useState(false);
   const [isOpen, setIsOpen] = useState(false);
   const [lastRequestTime, setLastRequestTime] = useState(0);
+  const [rateLimited, setRateLimited] = useState(false);
 
   const messagesEndRef = useRef<HTMLDivElement>(null);
 
@@ -34,6 +35,7 @@ export function AIChatWidget() {
   const handleSubmit = async (e: React.FormEvent) => {
     e.preventDefault();
     if (!input.trim() || isLoading) return;
+    setRateLimited(false); // clear any previous rate-limit banner
 
     const now = Date.now();
     if (now - lastRequestTime < 3000) {
@@ -68,7 +70,8 @@ export function AIChatWidget() {
 
       if (!response.ok) {
         if (response.status === 429) {
-          throw new Error("Too many requests, please wait a moment.");
+          setRateLimited(true);
+          return; // Show banner, don't push an error bubble
         }
         throw new Error("Failed to get response");
       }
@@ -137,6 +140,18 @@ export function AIChatWidget() {
               <div className="bg-white border border-border rounded-2xl rounded-bl-none px-4 py-3 shadow-sm flex items-center gap-2">
                 <Loader2 className="w-4 h-4 text-primary animate-spin" />
                 <span className="text-sm font-body text-text-muted">Thinking...</span>
+              </div>
+            </div>
+          )}
+          {/* Rate-limit warning banner */}
+          {rateLimited && (
+            <div className="flex items-start gap-3 bg-amber-50 border border-amber-300 rounded-2xl px-4 py-3 shadow-sm">
+              <AlertTriangle className="w-5 h-5 text-amber-500 shrink-0 mt-0.5" />
+              <div>
+                <p className="text-sm font-semibold text-amber-800 font-body">Rate limit reached</p>
+                <p className="text-xs text-amber-700 font-body mt-0.5">
+                  You&apos;ve sent too many messages. Please wait a minute before trying again.
+                </p>
               </div>
             </div>
           )}
