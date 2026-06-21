@@ -38,3 +38,10 @@
     font-family: var(--font-body);
   }
 }
+
+@layer utilities {
+  @keyframes gentleFloat {
+    0% { transform: translateY(-4px); }
+    100% { transform: translateY(4px); }
+  }
+}
